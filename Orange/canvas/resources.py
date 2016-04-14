@@ -6,7 +6,7 @@ Orange Canvas Resource Loader
 import os
 import logging
 
-log = logging.getLogger(__name__)
+
 
 
 def package_dirname(package):
